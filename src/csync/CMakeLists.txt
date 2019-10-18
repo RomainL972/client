@@ -7,7 +7,6 @@ set(LIBRARY_SOVERSION "0")
 
 # add definitions
 include(DefinePlatformDefaults)
-include(DefineCompilerFlags)
 include(DefineOptions.cmake)
 
 include(ConfigureChecks.cmake)
